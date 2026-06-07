@@ -1,7 +1,7 @@
 {
-  "versionCode": 108,
-  "versionName": "0.50.1",
-  "apk": "Knutcut-v0.50.1-release.apk",
-  "sha256": "78b0a7056e93ffe0f226c9d129398bea35ba19c496ed392a381031c3bdc304dc",
-  "notes": "Fehlerbehebungen: Sprachwahl/„System“, Ebenen-Reihenfolge, sauberes Beenden, Update-Aufräumen, Layout."
+  "versionCode": 109,
+  "versionName": "0.50.2",
+  "apk": "Knutcut-v0.50.2-release.apk",
+  "sha256": "801cef0692f5f2968b8a65b8924225f22807b45ed90bb227b61accfec197278e",
+  "notes": "Lokalisierte Verbindungs-Hinweise, interne Testkorrekturen."
 }
