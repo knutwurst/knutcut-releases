@@ -1,7 +1,7 @@
 {
-  "versionCode": 113,
-  "versionName": "0.51.2",
-  "apk": "Knutcut-v0.51.2-release.apk",
-  "sha256": "020ab53d61b1662a4122840c63b6a9c3a469e0042d38713ef23cb10150d70bf7",
-  "notes": "Einstellungen öffnen jetzt voll und bleiben oben."
+  "versionCode": 114,
+  "versionName": "0.52.0",
+  "apk": "Knutcut-v0.52.0-release.apk",
+  "sha256": "5acdfdbff28c0ae656458905451705c351bab37dd80a81b3f6c2090ab5727439",
+  "notes": "Einstellungen neu sortiert, Projekt-Format .kcp, „Projekt öffnen“ im Start."
 }
