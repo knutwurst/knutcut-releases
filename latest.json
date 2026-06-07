@@ -1,7 +1,7 @@
 {
-  "versionCode": 114,
-  "versionName": "0.52.0",
-  "apk": "Knutcut-v0.52.0-release.apk",
-  "sha256": "5acdfdbff28c0ae656458905451705c351bab37dd80a81b3f6c2090ab5727439",
-  "notes": "Einstellungen neu sortiert, Projekt-Format .kcp, „Projekt öffnen“ im Start."
+  "versionCode": 115,
+  "versionName": "0.53.0",
+  "apk": "Knutcut-v0.53.0-release.apk",
+  "sha256": "590c9249b91d9017bd2983215b98421ecca41a377610c541d24e0201d2d1ea4f",
+  "notes": "Spenden-Button (PayPal) in den Einstellungen."
 }
