@@ -1,7 +1,7 @@
 {
-  "versionCode": 116,
-  "versionName": "0.53.1",
-  "apk": "Knutcut-v0.53.1-release.apk",
-  "sha256": "2bfe1eea1f2a866b5402b1e27eafa1535fb8c7160a5f3d36d193b72aa3c9540a",
-  "notes": "Änderungsverlauf jetzt in „Über“ einsehbar."
+  "versionCode": 117,
+  "versionName": "0.53.2",
+  "apk": "Knutcut-v0.53.2-release.apk",
+  "sha256": "bfdb0f1c7cdeee5d9edd3eab2b7852b0695b6221fa689f0b23bf822ab53c4bae",
+  "notes": ".kcp lädt jetzt auch über „Datei öffnen“."
 }
