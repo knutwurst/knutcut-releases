@@ -1,7 +1,7 @@
 {
-  "versionCode": 115,
-  "versionName": "0.53.0",
-  "apk": "Knutcut-v0.53.0-release.apk",
-  "sha256": "590c9249b91d9017bd2983215b98421ecca41a377610c541d24e0201d2d1ea4f",
-  "notes": "Spenden-Button (PayPal) in den Einstellungen."
+  "versionCode": 116,
+  "versionName": "0.53.1",
+  "apk": "Knutcut-v0.53.1-release.apk",
+  "sha256": "2bfe1eea1f2a866b5402b1e27eafa1535fb8c7160a5f3d36d193b72aa3c9540a",
+  "notes": "Änderungsverlauf jetzt in „Über“ einsehbar."
 }
