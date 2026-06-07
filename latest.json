@@ -1,7 +1,7 @@
 {
-  "versionCode": 112,
-  "versionName": "0.51.1",
-  "apk": "Knutcut-v0.51.1-release.apk",
-  "sha256": "494a2e586dbfd3930072eb881c2d982a074c0c460f74bb9eefdd35bca8d1f9d6",
-  "notes": "Einstellungen sind jetzt auf- und zuklappbar."
+  "versionCode": 113,
+  "versionName": "0.51.2",
+  "apk": "Knutcut-v0.51.2-release.apk",
+  "sha256": "020ab53d61b1662a4122840c63b6a9c3a469e0042d38713ef23cb10150d70bf7",
+  "notes": "Einstellungen öffnen jetzt voll und bleiben oben."
 }
