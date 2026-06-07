@@ -1,7 +1,7 @@
 {
-  "versionCode": 106,
-  "versionName": "0.49.1",
-  "apk": "Knutcut-v0.49.1-release.apk",
-  "sha256": "c142c3baacb63b788406d497f62768af350ff27a10731a042e0470fe24297016",
-  "notes": ""
+  "versionCode": 107,
+  "versionName": "0.50.0",
+  "apk": "Knutcut-v0.50.0-release.apk",
+  "sha256": "3879eb6c5d01bd2f7b6ee2e8a303ab2aeb65d581a64092e27c3e293ec39e7801",
+  "notes": "Ebenen umbenennen & sortieren, Ansicht zuruecksetzen, Mehrfach-Plotten, Update-Hinweise, Ueber-Bereich."
 }
