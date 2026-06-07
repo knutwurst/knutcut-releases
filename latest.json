@@ -1,7 +1,7 @@
 {
-  "versionCode": 110,
-  "versionName": "0.50.3",
-  "apk": "Knutcut-v0.50.3-release.apk",
-  "sha256": "fe1d66487b81e37ee174ce7e83bb91b428824f88823bae4ba599511e5bfac396",
-  "notes": "Layout-Korrekturen: „Kacheln“-Beschriftung und Ebenenzeile."
+  "versionCode": 111,
+  "versionName": "0.51.0",
+  "apk": "Knutcut-v0.51.0-release.apk",
+  "sha256": "d15e692157d6f3146db285118609554ac5001d3675318976287a84b92c14d8dc",
+  "notes": "Übersichtliche, gruppierte Einstellungen. Plus viele neue Unit-Tests."
 }
