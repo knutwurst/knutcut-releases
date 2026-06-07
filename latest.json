@@ -1,7 +1,7 @@
 {
-  "versionCode": 117,
-  "versionName": "0.53.2",
-  "apk": "Knutcut-v0.53.2-release.apk",
-  "sha256": "bfdb0f1c7cdeee5d9edd3eab2b7852b0695b6221fa689f0b23bf822ab53c4bae",
-  "notes": ".kcp lädt jetzt auch über „Datei öffnen“."
+  "versionCode": 118,
+  "versionName": "0.53.3",
+  "apk": "Knutcut-v0.53.3-release.apk",
+  "sha256": "bae18cdd6d6c8a471629ecec2955219792b6f459dfb2cacf2cf5fc9b51d22ff6",
+  "notes": "Startseite: ein „Öffnen“-Button, „Form hinzufügen“ zurück."
 }
