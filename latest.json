@@ -1,7 +1,7 @@
 {
-  "versionCode": 119,
-  "versionName": "0.53.4",
-  "apk": "Knutcut-v0.53.4-release.apk",
-  "sha256": "5eedfdfa995ec24517daa55a0f35f2d0ee303aba9f76e4de2096b9ff970a7372",
-  "notes": "Release signing with v3 key-rotation lineage; existing installs update without reinstall on Android 9+"
+  "versionCode": 120,
+  "versionName": "0.54.0",
+  "apk": "Knutcut-v0.54.0-release.apk",
+  "sha256": "6545b7a5cf99a0463cca85fd4646eef3fffc7dcb63748c00264df0dc45c8d661",
+  "notes": "DXF import: LINE, LWPOLYLINE (with arcs), CIRCLE, ARC, ELLIPSE, SPLINE. Open .dxf from file picker or share from any app. Units auto-converted from header."
 }
