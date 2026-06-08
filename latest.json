@@ -1,7 +1,7 @@
 {
-  "versionCode": 125,
-  "versionName": "0.54.5",
-  "apk": "Knutcut-v0.54.5-release.apk",
-  "sha256": "a6f4cba2b32ad6c5598ee8d2a08994d10c44652f66eee980b676a584ff373037",
-  "notes": "SVG-Bibliothek mit knapp tausend Offline-Motiven, kompakten Startbuttons und hohem Bibliotheksfenster."
+  "versionCode": 126,
+  "versionName": "0.54.6",
+  "apk": "Knutcut-v0.54.6-release.apk",
+  "sha256": "ebb5923f85594183bf940b086db17bdca63a05628c0ac895e52a955fb5917fd2",
+  "notes": "Expanded SVG library to more than 7,600 offline motifs, added a compact category picker, and added a visible library scrollbar."
 }
