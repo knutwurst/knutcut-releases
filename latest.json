@@ -1,7 +1,7 @@
 {
-  "versionCode": 118,
-  "versionName": "0.53.3",
-  "apk": "Knutcut-v0.53.3-release.apk",
-  "sha256": "635720bf7a82134d3870bded500109b057be8f582af0683df8b4b49f7aea2ba2",
-  "notes": "Release signing: APK now signed with a fixed RSA-4096 release key (v2+v3). First install may require uninstalling the old debug-signed build."
+  "versionCode": 119,
+  "versionName": "0.53.4",
+  "apk": "Knutcut-v0.53.4-release.apk",
+  "sha256": "5eedfdfa995ec24517daa55a0f35f2d0ee303aba9f76e4de2096b9ff970a7372",
+  "notes": "Release signing with v3 key-rotation lineage; existing installs update without reinstall on Android 9+"
 }
