@@ -1,7 +1,7 @@
 {
-  "versionCode": 120,
-  "versionName": "0.54.0",
-  "apk": "Knutcut-v0.54.0-release.apk",
-  "sha256": "6545b7a5cf99a0463cca85fd4646eef3fffc7dcb63748c00264df0dc45c8d661",
-  "notes": "DXF import: LINE, LWPOLYLINE (with arcs), CIRCLE, ARC, ELLIPSE, SPLINE. Open .dxf from file picker or share from any app. Units auto-converted from header."
+  "versionCode": 121,
+  "versionName": "0.54.1",
+  "apk": "Knutcut-v0.54.1-release.apk",
+  "sha256": "e2b0d203d02a75251f5aedcce53c583f26fae6b6ba71289317b74182880f74eb",
+  "notes": "DXF import polished: layers keep their order, each DXF layer becomes its own editable layer with its colour, closed curves and arcs render correctly, and odd files no longer drop shapes. Stricter file detection."
 }
