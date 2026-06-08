@@ -1,7 +1,7 @@
 {
-  "versionCode": 123,
-  "versionName": "0.54.3",
-  "apk": "Knutcut-v0.54.3-release.apk",
-  "sha256": "cef03f2d3eda68e607402c992c3d234f6567cbed5f9dce38b4e28cd6e16db9cc",
-  "notes": "Fix: back press backgrounds the app when a design is loaded, preventing silent project overwrite on repeated share from CricutExport"
+  "versionCode": 124,
+  "versionName": "0.54.4",
+  "apk": "Knutcut-v0.54.4-release.apk",
+  "sha256": "b434f8b1edcc7fdfe63f7bcc395a9dde34acd09ac9d06455a2e30ebbc8694f8e",
+  "notes": "SVG-Bibliothek mit Suche, Kategorien und Offline-Motiven."
 }
