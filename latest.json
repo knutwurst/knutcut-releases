@@ -1,7 +1,7 @@
 {
-  "versionCode": 122,
-  "versionName": "0.54.2",
-  "apk": "Knutcut-v0.54.2-release.apk",
-  "sha256": "1f07edc8ce70c8ed82406c51d39c37da25c509f15804ef57ef097c6492818bca",
-  "notes": "Remove double-back exit; exit button in About; logo tap opens GitHub; version tap opens changelog"
+  "versionCode": 123,
+  "versionName": "0.54.3",
+  "apk": "Knutcut-v0.54.3-release.apk",
+  "sha256": "cef03f2d3eda68e607402c992c3d234f6567cbed5f9dce38b4e28cd6e16db9cc",
+  "notes": "Fix: back press backgrounds the app when a design is loaded, preventing silent project overwrite on repeated share from CricutExport"
 }
