@@ -1,7 +1,7 @@
 {
-  "versionCode": 128,
-  "versionName": "0.55.1",
-  "apk": "Knutcut-v0.55.1-release.apk",
-  "sha256": "94109eeea9d1900be3137976bfae4c44856a5865298adbe4a4e295e28401c5bd",
-  "notes": "Motive der Bibliothek werden jetzt als geschlossene Konturen geschnitten (keine offenen Linien mehr, z.B. bei Ab Testing). Vorschau wieder als Outline."
+  "versionCode": 129,
+  "versionName": "0.55.2",
+  "apk": "Knutcut-v0.55.2-release.apk",
+  "sha256": "3836f93a29d44047ecd71a77f72c2c355885e455b17c77afe9d944e66a2f1679",
+  "notes": "Vorschau der Bibliothek folgt jetzt der Anzeige-Einstellung: Farbig zeigt gefüllte Silhouette, Nur Outline zeigt die Kontur."
 }
