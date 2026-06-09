@@ -1,7 +1,7 @@
 {
-  "versionCode": 127,
-  "versionName": "0.55.0",
-  "apk": "Knutcut-v0.55.0-release.apk",
-  "sha256": "06f2c1f5ce4b1f300cb02ac519f1b6be48ce22b2ef09383bd1a720255a634c66",
-  "notes": "SVG-Bibliothek: schnellere, ruckelfreie Vorschau, bessere Suche (nur Name/Tags) und gefüllte Vorschaubilder. Probeschnitt-Eintrag entfernt."
+  "versionCode": 128,
+  "versionName": "0.55.1",
+  "apk": "Knutcut-v0.55.1-release.apk",
+  "sha256": "94109eeea9d1900be3137976bfae4c44856a5865298adbe4a4e295e28401c5bd",
+  "notes": "Motive der Bibliothek werden jetzt als geschlossene Konturen geschnitten (keine offenen Linien mehr, z.B. bei Ab Testing). Vorschau wieder als Outline."
 }
