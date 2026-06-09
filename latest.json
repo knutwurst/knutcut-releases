@@ -1,7 +1,8 @@
 {
-  "versionCode": 129,
-  "versionName": "0.55.2",
-  "apk": "Knutcut-v0.55.2-release.apk",
-  "sha256": "3836f93a29d44047ecd71a77f72c2c355885e455b17c77afe9d944e66a2f1679",
-  "notes": "Vorschau der Bibliothek folgt jetzt der Anzeige-Einstellung: Farbig zeigt gefüllte Silhouette, Nur Outline zeigt die Kontur."
+  "versionCode": 130,
+  "versionName": "0.55.3",
+  "apk": "Knutcut-v0.55.3-release.apk",
+  "sha256": "b68cc1e814771b4910122be9d64736fe3ce57ceaf614e6d291e3d82e695aa670",
+  "notes": "Self-Update lädt das APK jetzt aus einem GitHub-Release-Asset (mit raw-Fallback); das Releases-Repo wächst nicht mehr mit jeder Version.",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.55.3/Knutcut-v0.55.3-release.apk"
 }
