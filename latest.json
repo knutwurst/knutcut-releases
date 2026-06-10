@@ -1,8 +1,8 @@
 {
-  "versionCode": 134,
-  "versionName": "0.56.3",
-  "apk": "Knutcut-v0.56.3-release.apk",
-  "sha256": "32612ce158aa5d29c9ad8444ba671f9d9ccca0a0d74a88f92d75192b8c45f06d",
-  "notes": "Hinweise unter der Matte werden nicht mehr abgeschnitten (zweizeilig in festem Bereich), und die Buttons springen beim Moduswechsel nicht mehr.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.56.3/Knutcut-v0.56.3-release.apk"
+  "versionCode": 135,
+  "versionName": "0.56.4",
+  "apk": "Knutcut-v0.56.4-release.apk",
+  "sha256": "b40d48f8951c86134c77ec6a16c4e8ab71cd711808a9688ed382508ef72262e8",
+  "notes": "Neue Editor-Werkzeugleiste: runde Schalter für Auswählen/Zeichnen, kontextabhängiger Zauberstab (Biegen bzw. Formen), aktives Werkzeug leuchtet, Löschen im ⋯-Menü. Lange auf eine Ebene drücken öffnet ein Kontextmenü. Im Formen-Modus lässt sich die Form verschieben. Kacheln per Mini-Raster mit Vorschau.",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.56.4/Knutcut-v0.56.4-release.apk"
 }
