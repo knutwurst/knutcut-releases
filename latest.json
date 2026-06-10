@@ -1,8 +1,8 @@
 {
-  "versionCode": 130,
-  "versionName": "0.55.3",
-  "apk": "Knutcut-v0.55.3-release.apk",
-  "sha256": "b68cc1e814771b4910122be9d64736fe3ce57ceaf614e6d291e3d82e695aa670",
-  "notes": "Self-Update lädt das APK jetzt aus einem GitHub-Release-Asset (mit raw-Fallback); das Releases-Repo wächst nicht mehr mit jeder Version.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.55.3/Knutcut-v0.55.3-release.apk"
+  "versionCode": 132,
+  "versionName": "0.56.1",
+  "apk": "Knutcut-v0.56.1-release.apk",
+  "sha256": "823f4ec35c51167fd6ed2620ae09ef19ab1d5e59e788fe3d335721e9af55be65",
+  "notes": "Zeichnen auf der Matte mit automatischem Schließen, Formen-Editor zum Bearbeiten von Knoten, Text entlang einer Kurve biegen, mehr Schriften mit Vorschau und SVG-Export unter Einstellungen → Projekt.",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.56.1/Knutcut-v0.56.1-release.apk"
 }
