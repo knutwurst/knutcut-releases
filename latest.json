@@ -1,8 +1,8 @@
 {
-  "versionCode": 136,
-  "versionName": "0.56.5",
-  "apk": "Knutcut-v0.56.5-release.apk",
-  "sha256": "db94f3ae223d4b3da0c5fa99c9dea75e44648fc8223b3c1136856496d29662c1",
-  "notes": "Werkzeugleiste passt wieder komplett ins Bild (Spiegeln ins ⋯-Menü verschoben), überflüssiger Knopf neben dem Hinweis entfernt, langes Drücken auf eine Ebene öffnet das Kontextmenü zuverlässig.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.56.5/Knutcut-v0.56.5-release.apk"
+  "versionCode": 137,
+  "versionName": "0.56.6",
+  "apk": "Knutcut-v0.56.6-release.apk",
+  "sha256": "2e98e461f5b3e4d52739521556e5af2affae457e0501379d01e8f64d30c6b5c9",
+  "notes": "Spiegeln wieder als eigener Toolbar-Button; die Buttons schrumpfen auf schmalen Displays, damit die ganze Reihe sichtbar bleibt; Long-Press-Kontextmenü entfernt (lief nicht zuverlässig, alle Aktionen sind in der Toolbar).",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.56.6/Knutcut-v0.56.6-release.apk"
 }
