@@ -1,8 +1,8 @@
 {
-  "versionCode": 133,
-  "versionName": "0.56.2",
-  "apk": "Knutcut-v0.56.2-release.apk",
-  "sha256": "40ae0c2370c3cc8244682697364521831c1f82650e60fd3eb10ccb07c26050fa",
-  "notes": "Robustere Bedienung im Editor: Doppeltippen schaltet Knoten zuverlässig um, größere Griffe, Biegen am Griff, Zurück verlässt erst den aktiven Modus. Auto-Schließen vorsichtiger.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.56.2/Knutcut-v0.56.2-release.apk"
+  "versionCode": 134,
+  "versionName": "0.56.3",
+  "apk": "Knutcut-v0.56.3-release.apk",
+  "sha256": "32612ce158aa5d29c9ad8444ba671f9d9ccca0a0d74a88f92d75192b8c45f06d",
+  "notes": "Hinweise unter der Matte werden nicht mehr abgeschnitten (zweizeilig in festem Bereich), und die Buttons springen beim Moduswechsel nicht mehr.",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.56.3/Knutcut-v0.56.3-release.apk"
 }
