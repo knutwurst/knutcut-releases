@@ -1,8 +1,8 @@
 {
-  "versionCode": 140,
-  "versionName": "0.57.1",
-  "apk": "Knutcut-v0.57.1-release.apk",
-  "sha256": "d00e26ac9c93908e82531fba56dea2f82bfc80948a15ee09731cad3fd8a5a3ab",
-  "notes": "Fix: Farb-Füllung einer zusammengeführten, einfarbigen Ebene ließ Lücken. Die 'Farbig'-Füllung fasste alle gleichfarbigen Konturen zu einem Even-Odd-Pfad zusammen, wodurch sich überlappende Formen in der Überlappung aufhoben. Gefüllt wird jetzt nach Farbe UND Verschachtelung: echte Löcher (Buchstaben-Innenflächen) bleiben ausgespart, sich nur überlappende Formen werden voll gefüllt.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.57.1/Knutcut-v0.57.1-release.apk"
+  "versionCode": 141,
+  "versionName": "0.57.2",
+  "apk": "Knutcut-v0.57.2-release.apk",
+  "sha256": "90904420d980920121f561d38f6a6a7f48b82865cedd19358bbaa3523f618c2e",
+  "notes": "Pfad öffnen/schließen ist wieder erreichbar: beim Punkte-Bearbeiten (Formen) im ⋯-Menü, falls Auto-Close daneben lag. Node-Editor gegen veraltete Indizes gehärtet: Anker/Griff verschieben und Punkt einfügen sind bei ungültigem Index ein No-op statt Absturz.",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.57.2/Knutcut-v0.57.2-release.apk"
 }
