@@ -1,8 +1,8 @@
 {
-  "versionCode": 144,
-  "versionName": "0.57.5",
-  "apk": "Knutcut-v0.57.5-release.apk",
-  "sha256": "89f4cb3f05a7a3d04f2704bba48d73d668a5c22eae38fe19859ae196fb51cf4a",
-  "notes": "Farb-Picker bleibt beim Auswählen offen, sodass man mehrere Farben ausprobieren kann; ein 'Fertig'-Button (oder Wischen) schließt ihn. Die Farbe wird weiterhin sofort angewendet.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.57.5/Knutcut-v0.57.5-release.apk"
+  "versionCode": 145,
+  "versionName": "0.57.6",
+  "apk": "Knutcut-v0.57.6-release.apk",
+  "sha256": "b1333af0ab0e44c0c92b6ba0d269861ee76e0a1cf9e92902ae98de916ebf37a2",
+  "notes": "Farb-Picker: Die Tastatur verdeckt das Hex-Feld nicht mehr. Das Sheet öffnet in voller Höhe, der Inhalt ist scrollbar und hebt sich über die Tastatur, sodass das fokussierte Hex-Feld sichtbar bleibt.",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.57.6/Knutcut-v0.57.6-release.apk"
 }
