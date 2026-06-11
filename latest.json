@@ -1,8 +1,8 @@
 {
-  "versionCode": 142,
-  "versionName": "0.57.3",
-  "apk": "Knutcut-v0.57.3-release.apk",
-  "sha256": "18c1353110e8569a85914489a744e11788bea58940901fd2d9317d6d01be4ae9",
-  "notes": "Farb-Picker: Der eigene Farbwähler (Farbton/Sättigung/Helligkeit + Hex) wird jetzt direkt angezeigt statt hinter 'Eigene Farbe' zum Ausklappen — das Sheet hat genug Platz.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.57.3/Knutcut-v0.57.3-release.apk"
+  "versionCode": 143,
+  "versionName": "0.57.4",
+  "apk": "Knutcut-v0.57.4-release.apk",
+  "sha256": "0a24559855732d36156d177a5e824ff739157b57fa21cdfdacad298557e7c0f9",
+  "notes": "Farb-Füllung greift jetzt für Ebenen jeder Größe (Verschachtelung wird pro Ebene gecacht, der alte 400-Konturen-Fallback ist weg). Custom-Picker: Hex-Feld aktualisiert sofort bei Tap/Drag (kein Verzug); 8-stellige Hex-Werte werden nicht mehr halb akzeptiert (nur 6-stelliges RGB, da der Picker keinen Alpha-Kanal hat).",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.57.4/Knutcut-v0.57.4-release.apk"
 }
