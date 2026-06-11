@@ -1,8 +1,8 @@
 {
-  "versionCode": 150,
-  "versionName": "0.58.4",
-  "apk": "Knutcut-v0.58.4-release.apk",
-  "sha256": "cd134ad8d83538978332b4b5099be6ae36c982c942f79c7158da5070af57dff8",
-  "notes": "Farb-Picker: Beim Tippen ins HEX-Feld wird das Feld jetzt aktiv in den sichtbaren Bereich gescrollt (nicht nur das Sheet aufgeklappt), sodass es ohne eigenes Scrollen über der Tastatur liegt.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.58.4/Knutcut-v0.58.4-release.apk"
+  "versionCode": 151,
+  "versionName": "0.58.5",
+  "apk": "Knutcut-v0.58.5-release.apk",
+  "sha256": "845a199b50496f12a09f49845f7a2b6dda6ea41efc33e4e86c2f6c64124f058b",
+  "notes": "Farb-Picker: Das HEX-Feld hebt sich jetzt wirklich über die Tastatur. Die App zeichnet edge-to-edge, damit die Tastatur-Insets das Bottom-Sheet-Fenster erreichen; beim Fokus aufs HEX-Feld geht das Sheet auf und scrollt das Feld in den sichtbaren Bereich. (Die vorigen Versuche blieben wirkungslos, weil das Sheet die Tastatur-Insets nie gesehen hat.)",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.58.5/Knutcut-v0.58.5-release.apk"
 }
