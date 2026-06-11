@@ -1,8 +1,8 @@
 {
-  "versionCode": 139,
-  "versionName": "0.57.0",
-  "apk": "Knutcut-v0.57.0-release.apk",
-  "sha256": "7f5b52d751868a4eb23fe59531641c093e4d84c3323a298aca198978c438c894",
-  "notes": "Neu: Ebenenfarbe — der Duplizieren-Button in der Toolbar ist jetzt ein Farb-Button mit Picker (kuratierte Palette + eigener HSV/Hex-Picker + 'keine Farbe'); Duplizieren ist ins ⋯-Menü gewandert. Kacheln liegt jetzt in einem eigenen Dialog (kompakter 'Kacheln…'-Button im Ebenen-Menü) mit Raster, Vorschau und Abstand, damit das Ebenen-Menü aufgeräumt bleibt.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.57.0/Knutcut-v0.57.0-release.apk"
+  "versionCode": 140,
+  "versionName": "0.57.1",
+  "apk": "Knutcut-v0.57.1-release.apk",
+  "sha256": "d00e26ac9c93908e82531fba56dea2f82bfc80948a15ee09731cad3fd8a5a3ab",
+  "notes": "Fix: Farb-Füllung einer zusammengeführten, einfarbigen Ebene ließ Lücken. Die 'Farbig'-Füllung fasste alle gleichfarbigen Konturen zu einem Even-Odd-Pfad zusammen, wodurch sich überlappende Formen in der Überlappung aufhoben. Gefüllt wird jetzt nach Farbe UND Verschachtelung: echte Löcher (Buchstaben-Innenflächen) bleiben ausgespart, sich nur überlappende Formen werden voll gefüllt.",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.57.1/Knutcut-v0.57.1-release.apk"
 }
