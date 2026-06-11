@@ -1,8 +1,8 @@
 {
-  "versionCode": 148,
-  "versionName": "0.58.2",
-  "apk": "Knutcut-v0.58.2-release.apk",
-  "sha256": "6e8805904ada70e665ef84c040ef96d41f3a433ce54898fd95e22cb572d7f1dc",
-  "notes": "Bluetooth-Permission getrennt: CONNECT öffnet den Dialog und verbindet ein gepaartes VEVOR auch ohne SCAN; SCAN nur für die Suche. Fehlgeschlagene BLE-Suche stoppt den Spinner und meldet sich. Antippen eines gefundenen Silhouette-Geräts wählt automatisch ein passendes Silhouette-Modell. SVG-Import überspringt unsichtbare Elemente (fill=none ohne Stroke); Outline mit fill=none + Stroke bleibt erhalten.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.58.2/Knutcut-v0.58.2-release.apk"
+  "versionCode": 149,
+  "versionName": "0.58.3",
+  "apk": "Knutcut-v0.58.3-release.apk",
+  "sha256": "640941e2e1e4fd3022f5643198c7bde565bb0e3ea859af3a00f5567a42806142",
+  "notes": "Farb-Picker öffnet wieder halbhoch. Er geht nur noch ganz auf, wenn man ins HEX-Feld tippt, damit das Feld über der Tastatur sichtbar bleibt.",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.58.3/Knutcut-v0.58.3-release.apk"
 }
