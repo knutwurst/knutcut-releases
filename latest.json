@@ -1,8 +1,8 @@
 {
-  "versionCode": 146,
-  "versionName": "0.58.0",
-  "apk": "Knutcut-v0.58.0-release.apk",
-  "sha256": "156dcfa870149efbf8760fe26d214b248f01659d365aacc64cf5e38ca9b68154",
-  "notes": "Robustheits-Durchgang: VEVOR ordnet Antworten der cseq zu (keine verspäteten Acks mehr); Silhouette/BLE bricht bei Schreibfehler ab, scheitert die Verbindung bei fehlgeschlagenem Notification-Setup, Scan-Fehler werden geloggt; BT-Permission verlangt CONNECT und SCAN; SPP schließt Socket bei Fehler; Speichern meldet echten Fehlschlag; Projekt-Laden mit 16-MB-Limit; kaputte .kcp laden keine NaN-Koordinaten; SVG-Import überspringt unsichtbare Elemente; text/xml-SVGs öffnen direkt; Ursprungs-Offset gilt auch für Silhouette (Standard 0); identische Statusmeldung wird erneut angezeigt; Update-Dateiname robust.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.58.0/Knutcut-v0.58.0-release.apk"
+  "versionCode": 147,
+  "versionName": "0.58.1",
+  "apk": "Knutcut-v0.58.1-release.apk",
+  "sha256": "35503152cdc9c135fcd4cca597b56b03d9690abfb0f763c3296652d9b94f093b",
+  "notes": "Knoten-Editor: Ein kleines Schloss-Symbol unten rechts auf der Matte öffnet/schließt den ganzen Pfad (geschlossenes Schloss = geschlossene, schneidbare Kontur; offenes Schloss = offene Linie). Damit lässt sich ein gezeichneter Pfad korrigieren, bei dem Auto-Close falsch lag.",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.58.1/Knutcut-v0.58.1-release.apk"
 }
