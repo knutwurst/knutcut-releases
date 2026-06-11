@@ -1,8 +1,8 @@
 {
-  "versionCode": 145,
-  "versionName": "0.57.6",
-  "apk": "Knutcut-v0.57.6-release.apk",
-  "sha256": "b1333af0ab0e44c0c92b6ba0d269861ee76e0a1cf9e92902ae98de916ebf37a2",
-  "notes": "Farb-Picker: Die Tastatur verdeckt das Hex-Feld nicht mehr. Das Sheet öffnet in voller Höhe, der Inhalt ist scrollbar und hebt sich über die Tastatur, sodass das fokussierte Hex-Feld sichtbar bleibt.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.57.6/Knutcut-v0.57.6-release.apk"
+  "versionCode": 146,
+  "versionName": "0.58.0",
+  "apk": "Knutcut-v0.58.0-release.apk",
+  "sha256": "156dcfa870149efbf8760fe26d214b248f01659d365aacc64cf5e38ca9b68154",
+  "notes": "Robustheits-Durchgang: VEVOR ordnet Antworten der cseq zu (keine verspäteten Acks mehr); Silhouette/BLE bricht bei Schreibfehler ab, scheitert die Verbindung bei fehlgeschlagenem Notification-Setup, Scan-Fehler werden geloggt; BT-Permission verlangt CONNECT und SCAN; SPP schließt Socket bei Fehler; Speichern meldet echten Fehlschlag; Projekt-Laden mit 16-MB-Limit; kaputte .kcp laden keine NaN-Koordinaten; SVG-Import überspringt unsichtbare Elemente; text/xml-SVGs öffnen direkt; Ursprungs-Offset gilt auch für Silhouette (Standard 0); identische Statusmeldung wird erneut angezeigt; Update-Dateiname robust.",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.58.0/Knutcut-v0.58.0-release.apk"
 }
