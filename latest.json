@@ -1,8 +1,8 @@
 {
-  "versionCode": 137,
-  "versionName": "0.56.6",
-  "apk": "Knutcut-v0.56.6-release.apk",
-  "sha256": "2e98e461f5b3e4d52739521556e5af2affae457e0501379d01e8f64d30c6b5c9",
-  "notes": "Spiegeln wieder als eigener Toolbar-Button; die Buttons schrumpfen auf schmalen Displays, damit die ganze Reihe sichtbar bleibt; Long-Press-Kontextmenü entfernt (lief nicht zuverlässig, alle Aktionen sind in der Toolbar).",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.56.6/Knutcut-v0.56.6-release.apk"
+  "versionCode": 138,
+  "versionName": "0.56.7",
+  "apk": "Knutcut-v0.56.7-release.apk",
+  "sha256": "b9903c9795e4de68262f8426d6a94866dfeb4857143516d20e7a208f433b6c9e",
+  "notes": "Resize an gespiegelten Ebenen kollabiert nicht mehr; Kacheln berücksichtigt die Rotation (kein Überlappen/Lücken); Tile-Grid wieder bis 10×10 und auf schmalen Displays passend; Node-/Biegen-Modus bleibt nach Hinzufügen/Import/Anordnen/Teilen/Zusammenführen sauber; Textfeld einzeilig; ungenutzte Verformen-Reste entfernt (gebogener Text unverändert).",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.56.7/Knutcut-v0.56.7-release.apk"
 }
