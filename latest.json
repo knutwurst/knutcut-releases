@@ -1,8 +1,8 @@
 {
-  "versionCode": 149,
-  "versionName": "0.58.3",
-  "apk": "Knutcut-v0.58.3-release.apk",
-  "sha256": "640941e2e1e4fd3022f5643198c7bde565bb0e3ea859af3a00f5567a42806142",
-  "notes": "Farb-Picker öffnet wieder halbhoch. Er geht nur noch ganz auf, wenn man ins HEX-Feld tippt, damit das Feld über der Tastatur sichtbar bleibt.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.58.3/Knutcut-v0.58.3-release.apk"
+  "versionCode": 150,
+  "versionName": "0.58.4",
+  "apk": "Knutcut-v0.58.4-release.apk",
+  "sha256": "cd134ad8d83538978332b4b5099be6ae36c982c942f79c7158da5070af57dff8",
+  "notes": "Farb-Picker: Beim Tippen ins HEX-Feld wird das Feld jetzt aktiv in den sichtbaren Bereich gescrollt (nicht nur das Sheet aufgeklappt), sodass es ohne eigenes Scrollen über der Tastatur liegt.",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.58.4/Knutcut-v0.58.4-release.apk"
 }
