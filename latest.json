@@ -1,8 +1,8 @@
 {
-  "versionCode": 154,
-  "versionName": "0.58.8",
-  "apk": "Knutcut-v0.58.8-release.apk",
-  "sha256": "5c40fcaafd1a49183b1c4428fa6166ed9ab84a6d7605f622d927f4e05cf47d0d",
-  "notes": "Der angezeigte Name im Header und im 'Über'-Screen ist jetzt 'Oliver Köster' (GitHub-Link und Repository bleiben unverändert).",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.58.8/Knutcut-v0.58.8-release.apk"
+  "versionCode": 155,
+  "versionName": "0.59.0",
+  "apk": "Knutcut-v0.59.0-release.apk",
+  "sha256": "69feccfde2da30708ba7ecff7fc024d1c42a0953d4f49cef055b1ab994f8f2c4",
+  "notes": "Neuer unterstützter Plotter: E-cut Smart 330. Baugleich zum VEVOR Smart 1 (gleiches Bluetooth-SPP-Protokoll, gleiche Lade-/Start-Tasten) — im Geräte-Dialog auswählen, dann schneidet er wie der Smart 1.",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.59.0/Knutcut-v0.59.0-release.apk"
 }
