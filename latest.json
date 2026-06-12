@@ -1,8 +1,8 @@
 {
-  "versionCode": 153,
-  "versionName": "0.58.7",
-  "apk": "Knutcut-v0.58.7-release.apk",
-  "sha256": "76645058de02d154b9331fb9fb6fdd00cd1d089082e6225acb8a61b77ea021dc",
-  "notes": "Farb-Picker: Der 'Keine Farbe'-Button ist weg. Stattdessen gibt es als erstes Swatch einen schattierten Kreis mit Diagonalstrich für 'keine Farbe / transparent' direkt bei den Farben. Dadurch rückt der Rest etwas nach oben.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.58.7/Knutcut-v0.58.7-release.apk"
+  "versionCode": 154,
+  "versionName": "0.58.8",
+  "apk": "Knutcut-v0.58.8-release.apk",
+  "sha256": "5c40fcaafd1a49183b1c4428fa6166ed9ab84a6d7605f622d927f4e05cf47d0d",
+  "notes": "Der angezeigte Name im Header und im 'Über'-Screen ist jetzt 'Oliver Köster' (GitHub-Link und Repository bleiben unverändert).",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.58.8/Knutcut-v0.58.8-release.apk"
 }
