@@ -1,8 +1,8 @@
 {
-  "versionCode": 158,
-  "versionName": "0.59.3",
-  "apk": "Knutcut-v0.59.3-release.apk",
-  "sha256": "8a92fe451bab401edafc4c37aa3e940b267b5463aafb83494192b6155c906873",
-  "notes": "Fix Formen-Editor: Beim 'Magic'-Antippen einer geladenen Form blieb diese nicht erhalten — sie wurde wie eine Freihand-Skizze auf wenige Punkte reduziert, verlor Ecken und brach beim ersten Bearbeiten zusammen. Geladene Formen behalten jetzt ihre Ecken (nur überflüssige Punkte fallen weg), die Biegepunkte sitzen richtig und die Kontur bleibt erhalten.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.59.3/Knutcut-v0.59.3-release.apk"
+  "versionCode": 159,
+  "versionName": "0.59.4",
+  "apk": "Knutcut-v0.59.4-release.apk",
+  "sha256": "8fa4792b6a6eb1ae167a5e8f99ce6e0155bd3cd43c0d7b6bb633867cac0ae694",
+  "notes": "Formen-Editor: Eine geladene Form bleibt jetzt wirklich erhalten. Beim 'Magic'-Konvertieren wird die Kontur nicht mehr zu Bézier-Kurven geglättet — genau dieses Wölben hat sie verformt. Sie wird jetzt exakt mit Eckpunkten nachgezeichnet (gleiche Punktzahl, keine Verzerrung); eine Linie ziehen biegt sie dort, wo man es will.",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.59.4/Knutcut-v0.59.4-release.apk"
 }
