@@ -1,8 +1,8 @@
 {
-  "versionCode": 157,
-  "versionName": "0.59.2",
-  "apk": "Knutcut-v0.59.2-release.apk",
-  "sha256": "ce398171dd52b5b59986338d6546fe8f57aaf7082ad1425c669c259d58243050",
-  "notes": "Fix: SVGs in UTF-16 (z. B. CorelDRAW-Export) öffnen jetzt. Importierte Dateien wurden immer als UTF-8 dekodiert, was eine UTF-16-Datei unleserlich machte ('keine schneidbaren Pfade'). Die Byte-Reihenfolge-Markierung (BOM) wird nun berücksichtigt (UTF-16 LE/BE, UTF-8 BOM).",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.59.2/Knutcut-v0.59.2-release.apk"
+  "versionCode": 158,
+  "versionName": "0.59.3",
+  "apk": "Knutcut-v0.59.3-release.apk",
+  "sha256": "8a92fe451bab401edafc4c37aa3e940b267b5463aafb83494192b6155c906873",
+  "notes": "Fix Formen-Editor: Beim 'Magic'-Antippen einer geladenen Form blieb diese nicht erhalten — sie wurde wie eine Freihand-Skizze auf wenige Punkte reduziert, verlor Ecken und brach beim ersten Bearbeiten zusammen. Geladene Formen behalten jetzt ihre Ecken (nur überflüssige Punkte fallen weg), die Biegepunkte sitzen richtig und die Kontur bleibt erhalten.",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.59.3/Knutcut-v0.59.3-release.apk"
 }
