@@ -1,8 +1,8 @@
 {
-  "versionCode": 156,
-  "versionName": "0.59.1",
-  "apk": "Knutcut-v0.59.1-release.apk",
-  "sha256": "b47d1a3c21213f570ecb6b1666eb0e98d65da9103996991e390f8bc479df133c",
-  "notes": "Keine 'Form hinzugefügt'-Toasts mehr beim Zeichnen oder Hinzufügen einer Form/eines Motivs — die Form erscheint ohnehin sichtbar auf der Matte. Fehler-, Schnitt-, Verbindungs- und Speicher-Meldungen bleiben.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.59.1/Knutcut-v0.59.1-release.apk"
+  "versionCode": 157,
+  "versionName": "0.59.2",
+  "apk": "Knutcut-v0.59.2-release.apk",
+  "sha256": "ce398171dd52b5b59986338d6546fe8f57aaf7082ad1425c669c259d58243050",
+  "notes": "Fix: SVGs in UTF-16 (z. B. CorelDRAW-Export) öffnen jetzt. Importierte Dateien wurden immer als UTF-8 dekodiert, was eine UTF-16-Datei unleserlich machte ('keine schneidbaren Pfade'). Die Byte-Reihenfolge-Markierung (BOM) wird nun berücksichtigt (UTF-16 LE/BE, UTF-8 BOM).",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.59.2/Knutcut-v0.59.2-release.apk"
 }
