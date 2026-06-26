@@ -3,6 +3,6 @@
   "versionName": "0.59.4",
   "apk": "Knutcut-v0.59.4-release.apk",
   "sha256": "8fa4792b6a6eb1ae167a5e8f99ce6e0155bd3cd43c0d7b6bb633867cac0ae694",
-  "notes": "Formen-Editor: Eine geladene Form bleibt jetzt wirklich erhalten. Beim 'Magic'-Konvertieren wird die Kontur nicht mehr zu Bézier-Kurven geglättet — genau dieses Wölben hat sie verformt. Sie wird jetzt exakt mit Eckpunkten nachgezeichnet (gleiche Punktzahl, keine Verzerrung); eine Linie ziehen biegt sie dort, wo man es will.",
+  "notes": "Shape editor really keeps a loaded shape now. Converting (Magic) no longer smooths the outline into Bézier curves — that bowing is what deformed it. It now traces the shape exactly with corner points (same point count, no distortion); drag a segment to curve it where you want.",
   "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.59.4/Knutcut-v0.59.4-release.apk"
 }
