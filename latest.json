@@ -1,8 +1,8 @@
 {
-  "versionCode": 161,
-  "versionName": "0.60.0",
-  "apk": "Knutcut-v0.60.0-release.apk",
-  "sha256": "42b9e1e4d4f24efb7f2ac0fb726fd1022214b1ba39d77452851a1b8549f177a6",
-  "notes": "Import PNG/JPG/BMP/WebP images and trace them to cuttable vector layers. Posterize mode quantises the picture to a handful of colours and turns each colour region into its own coloured layer (holes included), so it fits the per-layer colour workflow. A preview dialog sets the number of colours, drops the background, and tunes detail and speckle removal before adding. Share a photo to Knutcut or pick one via 'Import image'. High-contrast art (logos, clipart) traces best; photos come out rough.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.60.0/Knutcut-v0.60.0-release.apk"
+  "versionCode": 162,
+  "versionName": "0.60.1",
+  "apk": "Knutcut-v0.60.1-release.apk",
+  "sha256": "404be7178d670cb4d0861e03bd7b08e72fa645594d0d86cb1f0dd7d81044c152",
+  "notes": "Image trace, take two: crop and contrast. A draggable rectangle on the preview isolates one object before tracing, so you can lift a single shape out of a busy photo. Quantisation now runs in CIELAB (perceptual) with distance-based seeding, so a low colour count separates dark from light - at 2 colours the subject pops out instead of turning into grey mush, even when the background has several light tones. The crop region is quantised on its own to sharpen contrast further.",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.60.1/Knutcut-v0.60.1-release.apk"
 }
