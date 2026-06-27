@@ -1,8 +1,8 @@
 {
-  "versionCode": 160,
-  "versionName": "0.59.5",
-  "apk": "Knutcut-v0.59.5-release.apk",
-  "sha256": "1840070d51af3c0127cb2005fda640cb7909166f3f8a1f7035c8cd830c6a80c5",
-  "notes": "Finished the English translation. Strings that were still hardcoded in German now follow the chosen language: material names, generated layer names (split, merge, merge-by-colour, duplicate, imported and PLT layers), the cut/draw/plot button, the connect status, the text-tool font names, and the mat's accessibility label. Set the app to English and the UI is fully English.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.59.5/Knutcut-v0.59.5-release.apk"
+  "versionCode": 161,
+  "versionName": "0.60.0",
+  "apk": "Knutcut-v0.60.0-release.apk",
+  "sha256": "42b9e1e4d4f24efb7f2ac0fb726fd1022214b1ba39d77452851a1b8549f177a6",
+  "notes": "Import PNG/JPG/BMP/WebP images and trace them to cuttable vector layers. Posterize mode quantises the picture to a handful of colours and turns each colour region into its own coloured layer (holes included), so it fits the per-layer colour workflow. A preview dialog sets the number of colours, drops the background, and tunes detail and speckle removal before adding. Share a photo to Knutcut or pick one via 'Import image'. High-contrast art (logos, clipart) traces best; photos come out rough.",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.60.0/Knutcut-v0.60.0-release.apk"
 }
