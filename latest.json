@@ -1,8 +1,8 @@
 {
-  "versionCode": 163,
-  "versionName": "0.61.0",
-  "apk": "Knutcut-v0.61.0-release.apk",
-  "sha256": "74179fca847984ad79fc3b8cb4548f5f0e29e55dbb41c51f3787f26fe009a505",
-  "notes": "Two features. Free rotation: the rotate button opens a menu (90 right, 90 left, 180, and Free rotate) like the flip button; in Free rotate mode the selection's corner handles turn the layer to any angle, real corners become round grips, and the 90/180 steps still apply in one tap. Image trace, smoother edges: traced contours are interpolated into swung curves instead of the raw pixel staircase so they plot cleanly, with real corners kept crisp and a 'Smooth curves' toggle (on by default); tracing also runs at higher resolution now, which helps most when you crop to a small part of a photo.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.61.0/Knutcut-v0.61.0-release.apk"
+  "versionCode": 164,
+  "versionName": "0.61.1",
+  "apk": "Knutcut-v0.61.1-release.apk",
+  "sha256": "7fde130b497ec9f2aaace0bef8e1ac9a0ab8f73506c104c1855d8cce2d038360",
+  "notes": "Image trace now traces a cropped object at full resolution. When you crop to one object, that exact region is re-read from the original photo at native resolution before tracing (only the crop, so memory stays bounded), instead of tracing a shrunk copy. The pixel staircase drops below the smoothing, so the curves come out clean. Falls back to the preview trace if the region can't be read.",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.61.1/Knutcut-v0.61.1-release.apk"
 }
