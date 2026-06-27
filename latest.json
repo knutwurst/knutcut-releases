@@ -1,8 +1,8 @@
 {
-  "versionCode": 166,
-  "versionName": "0.62.0",
-  "apk": "Knutcut-v0.62.0-release.apk",
-  "sha256": "16bebe4b34e2021da310b406e9582a6435d5af23ebb0481243559701feed686f",
-  "notes": "New display mode 'Color only': the mat shows filled colors with no outline overlay, so the preview looks like the finished vinyl. The Display setting now has three modes: Outline only, Color + outline, and Color only. Also switched all in-app English text and code comments from British to US spelling (color, center, optimize, and so on).",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.62.0/Knutcut-v0.62.0-release.apk"
+  "versionCode": 167,
+  "versionName": "0.62.1",
+  "apk": "Knutcut-v0.62.1-release.apk",
+  "sha256": "a0b2d28106117db8f8173c81cb94244a40107a8e0f5d1c3059eb4411f4da708c",
+  "notes": "Quick display-mode toggle right on the mat (top-right): switch between Outline only, Color + outline, and Color only with one tap. The active mode is highlighted and the preview updates instantly.",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.62.1/Knutcut-v0.62.1-release.apk"
 }
