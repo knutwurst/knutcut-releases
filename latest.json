@@ -1,8 +1,8 @@
 {
-  "versionCode": 162,
-  "versionName": "0.60.1",
-  "apk": "Knutcut-v0.60.1-release.apk",
-  "sha256": "404be7178d670cb4d0861e03bd7b08e72fa645594d0d86cb1f0dd7d81044c152",
-  "notes": "Image trace, take two: crop and contrast. A draggable rectangle on the preview isolates one object before tracing, so you can lift a single shape out of a busy photo. Quantisation now runs in CIELAB (perceptual) with distance-based seeding, so a low colour count separates dark from light - at 2 colours the subject pops out instead of turning into grey mush, even when the background has several light tones. The crop region is quantised on its own to sharpen contrast further.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.60.1/Knutcut-v0.60.1-release.apk"
+  "versionCode": 163,
+  "versionName": "0.61.0",
+  "apk": "Knutcut-v0.61.0-release.apk",
+  "sha256": "74179fca847984ad79fc3b8cb4548f5f0e29e55dbb41c51f3787f26fe009a505",
+  "notes": "Two features. Free rotation: the rotate button opens a menu (90 right, 90 left, 180, and Free rotate) like the flip button; in Free rotate mode the selection's corner handles turn the layer to any angle, real corners become round grips, and the 90/180 steps still apply in one tap. Image trace, smoother edges: traced contours are interpolated into swung curves instead of the raw pixel staircase so they plot cleanly, with real corners kept crisp and a 'Smooth curves' toggle (on by default); tracing also runs at higher resolution now, which helps most when you crop to a small part of a photo.",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.61.0/Knutcut-v0.61.0-release.apk"
 }
