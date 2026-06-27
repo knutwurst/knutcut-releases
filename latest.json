@@ -1,8 +1,8 @@
 {
-  "versionCode": 164,
-  "versionName": "0.61.1",
-  "apk": "Knutcut-v0.61.1-release.apk",
-  "sha256": "7fde130b497ec9f2aaace0bef8e1ac9a0ab8f73506c104c1855d8cce2d038360",
-  "notes": "Image trace now traces a cropped object at full resolution. When you crop to one object, that exact region is re-read from the original photo at native resolution before tracing (only the crop, so memory stays bounded), instead of tracing a shrunk copy. The pixel staircase drops below the smoothing, so the curves come out clean. Falls back to the preview trace if the region can't be read.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.61.1/Knutcut-v0.61.1-release.apk"
+  "versionCode": 165,
+  "versionName": "0.61.2",
+  "apk": "Knutcut-v0.61.2-release.apk",
+  "sha256": "7ad0673940af3f0870d7a0327515cb6a6bbd6cfeeb92bec6e6c656c634dda029",
+  "notes": "Image trace: smoother curves. The outline smoothing now does more rounding passes (a quadratic B-spline fit), so traced edges read as clean curves instead of faceted steps. It rounds toward the inside of the shape, so the cut never grows past the artwork, and genuine sharp corners stay crisp.",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.61.2/Knutcut-v0.61.2-release.apk"
 }
