@@ -1,8 +1,8 @@
 {
-  "versionCode": 165,
-  "versionName": "0.61.2",
-  "apk": "Knutcut-v0.61.2-release.apk",
-  "sha256": "7ad0673940af3f0870d7a0327515cb6a6bbd6cfeeb92bec6e6c656c634dda029",
-  "notes": "Image trace: smoother curves. The outline smoothing now does more rounding passes (a quadratic B-spline fit), so traced edges read as clean curves instead of faceted steps. It rounds toward the inside of the shape, so the cut never grows past the artwork, and genuine sharp corners stay crisp.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.61.2/Knutcut-v0.61.2-release.apk"
+  "versionCode": 166,
+  "versionName": "0.62.0",
+  "apk": "Knutcut-v0.62.0-release.apk",
+  "sha256": "16bebe4b34e2021da310b406e9582a6435d5af23ebb0481243559701feed686f",
+  "notes": "New display mode 'Color only': the mat shows filled colors with no outline overlay, so the preview looks like the finished vinyl. The Display setting now has three modes: Outline only, Color + outline, and Color only. Also switched all in-app English text and code comments from British to US spelling (color, center, optimize, and so on).",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.62.0/Knutcut-v0.62.0-release.apk"
 }
