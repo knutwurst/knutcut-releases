@@ -1,8 +1,8 @@
 {
-  "versionCode": 169,
-  "versionName": "0.63.1",
-  "apk": "Knutcut-v0.63.1-release.apk",
-  "sha256": "0ee45e3246a6c660111ef99d55e6b64ed219faad25f7f49ea7a589fe9af34882",
-  "notes": "Bend any line by dragging it in the Shape tool - this works on imported shapes too, not just hand-drawn lines. 'Color only' display is now disabled until something has a color, so freshly drawn shapes can no longer go invisible.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.63.1/Knutcut-v0.63.1-release.apk"
+  "versionCode": 170,
+  "versionName": "0.63.2",
+  "apk": "Knutcut-v0.63.2-release.apk",
+  "sha256": "1f89b1c2f3153fb8b6a4483dc3c924a921dac8931fc68c241a3d486126415089",
+  "notes": "Round a corner by double-tapping it in the Shape tool. Smoothing a corner of an imported or traced shape now actually rounds it (it builds curve handles from the neighbouring points), then you can drag the handles to adjust - just like a hand-drawn line.",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.63.2/Knutcut-v0.63.2-release.apk"
 }
