@@ -1,8 +1,8 @@
 {
-  "versionCode": 168,
-  "versionName": "0.63.0",
-  "apk": "Knutcut-v0.63.0-release.apk",
-  "sha256": "c628fb6e25526e49ac92191c6b1826c8ec7cf38ad360a31737f7d79ae46ba5b6",
-  "notes": "Node-edit imported shapes too: the Shape tool now opens for every layer, including imported SVGs with several contours (a letter with a counter, a multi-part logo, a traced image). It edits one contour at a time - tap another contour to switch to it; editing one never moves the rest.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.63.0/Knutcut-v0.63.0-release.apk"
+  "versionCode": 169,
+  "versionName": "0.63.1",
+  "apk": "Knutcut-v0.63.1-release.apk",
+  "sha256": "0ee45e3246a6c660111ef99d55e6b64ed219faad25f7f49ea7a589fe9af34882",
+  "notes": "Bend any line by dragging it in the Shape tool - this works on imported shapes too, not just hand-drawn lines. 'Color only' display is now disabled until something has a color, so freshly drawn shapes can no longer go invisible.",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.63.1/Knutcut-v0.63.1-release.apk"
 }
