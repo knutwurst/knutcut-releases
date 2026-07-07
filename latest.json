@@ -1,8 +1,8 @@
 {
-  "versionCode": 170,
-  "versionName": "0.63.2",
-  "apk": "Knutcut-v0.63.2-release.apk",
-  "sha256": "1f89b1c2f3153fb8b6a4483dc3c924a921dac8931fc68c241a3d486126415089",
-  "notes": "Round a corner by double-tapping it in the Shape tool. Smoothing a corner of an imported or traced shape now actually rounds it (it builds curve handles from the neighbouring points), then you can drag the handles to adjust - just like a hand-drawn line.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.63.2/Knutcut-v0.63.2-release.apk"
+  "versionCode": 171,
+  "versionName": "0.64.0",
+  "apk": "Knutcut-v0.64.0-release.apk",
+  "sha256": "b31a47ec912f3bd8ed1b5210ec1427f7ebcc854ee77bebe17a87a8131887dd14",
+  "notes": "Size & angle dialog now has a 'Lock aspect ratio' option (on by default) so resizing by number keeps proportions. After a cut, the app waits for the machine's buffer to finish, then reports the plot is done and prompts you to press the eject (arrow) button to feed the mat out.",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.64.0/Knutcut-v0.64.0-release.apk"
 }
