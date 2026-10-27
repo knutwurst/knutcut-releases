@@ -1,8 +1,8 @@
 {
-  "versionCode": 175,
-  "versionName": "0.65.3",
-  "apk": "Knutcut-v0.65.3-release.apk",
-  "sha256": "1f46f45360f21f54542ba34f607165957ba07e986795a5f2a01b5745bdd8d6c4",
-  "notes": "Plot review keeps working when the design is replaced while it's open and survives rotating the phone. A plotter you disconnect on purpose stays disconnected on rotation, and tapping the already connected plotter no longer reconnects it.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.65.3/Knutcut-v0.65.3-release.apk"
+  "versionCode": 176,
+  "versionName": "0.66.0",
+  "apk": "Knutcut-v0.66.0-release.apk",
+  "sha256": "2f80c7d2d117c7a35fd7c1c26795a96d710b9c06f2e8e5d7742c1ce908a92cc3",
+  "notes": "The plot sheet now stays open for the whole plot: the cut paths draw themselves live on the mat preview with a glowing tool position, a large percentage and a thick animated progress bar. At the end the shapes fill up, a check mark pops in and the finish message stays on screen. The sheet can't be swiped away mid-plot; Cancel plot is always at hand.",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.66.0/Knutcut-v0.66.0-release.apk"
 }
