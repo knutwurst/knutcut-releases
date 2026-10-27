@@ -1,8 +1,8 @@
 {
-  "versionCode": 173,
-  "versionName": "0.65.1",
-  "apk": "Knutcut-v0.65.1-release.apk",
-  "sha256": "2197146543b72beec8f05f011f4a802512603dff66aef6cd7e833adb5d89087d",
-  "notes": "Demo mode for trying the app without a plotter: turn it on at the very bottom of Settings > About. A simulated plotter goes through the full flow (feed and start prompts, progress, finish message) but nothing is cut. A DEMO badge shows while it's on.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.65.1/Knutcut-v0.65.1-release.apk"
+  "versionCode": 174,
+  "versionName": "0.65.2",
+  "apk": "Knutcut-v0.65.2-release.apk",
+  "sha256": "4c28aeebe980f0eaed7f631f1afcefacf2296408345d1ad32797549028720c77",
+  "notes": "The demo plotter now sits in the plotter list (Connect plotter > Devices) like any other device, and the list opens even without Bluetooth permission. Picking another plotter while one is connected now switches to it.",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.65.2/Knutcut-v0.65.2-release.apk"
 }
