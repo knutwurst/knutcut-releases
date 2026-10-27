@@ -1,8 +1,8 @@
 {
-  "versionCode": 172,
-  "versionName": "0.65.0",
-  "apk": "Knutcut-v0.65.0-release.apk",
-  "sha256": "36c0dca5bdca0434cd903043d9ebeac4e2697df0c2fd40c23eb1fd2dba1f2224",
-  "notes": "New review step before every plot: see the whole mat exactly as it will be plotted, pick which layers to include by tapping a row or the shape itself, switch each layer between cut and draw, then start. What gets plotted is now fixed the moment you press Start.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.65.0/Knutcut-v0.65.0-release.apk"
+  "versionCode": 173,
+  "versionName": "0.65.1",
+  "apk": "Knutcut-v0.65.1-release.apk",
+  "sha256": "2197146543b72beec8f05f011f4a802512603dff66aef6cd7e833adb5d89087d",
+  "notes": "Demo mode for trying the app without a plotter: turn it on at the very bottom of Settings > About. A simulated plotter goes through the full flow (feed and start prompts, progress, finish message) but nothing is cut. A DEMO badge shows while it's on.",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.65.1/Knutcut-v0.65.1-release.apk"
 }
