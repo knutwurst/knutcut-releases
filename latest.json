@@ -1,8 +1,8 @@
 {
-  "versionCode": 174,
-  "versionName": "0.65.2",
-  "apk": "Knutcut-v0.65.2-release.apk",
-  "sha256": "4c28aeebe980f0eaed7f631f1afcefacf2296408345d1ad32797549028720c77",
-  "notes": "The demo plotter now sits in the plotter list (Connect plotter > Devices) like any other device, and the list opens even without Bluetooth permission. Picking another plotter while one is connected now switches to it.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.65.2/Knutcut-v0.65.2-release.apk"
+  "versionCode": 175,
+  "versionName": "0.65.3",
+  "apk": "Knutcut-v0.65.3-release.apk",
+  "sha256": "1f46f45360f21f54542ba34f607165957ba07e986795a5f2a01b5745bdd8d6c4",
+  "notes": "Plot review keeps working when the design is replaced while it's open and survives rotating the phone. A plotter you disconnect on purpose stays disconnected on rotation, and tapping the already connected plotter no longer reconnects it.",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.65.3/Knutcut-v0.65.3-release.apk"
 }
