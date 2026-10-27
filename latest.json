@@ -1,8 +1,8 @@
 {
-  "versionCode": 171,
-  "versionName": "0.64.0",
-  "apk": "Knutcut-v0.64.0-release.apk",
-  "sha256": "b31a47ec912f3bd8ed1b5210ec1427f7ebcc854ee77bebe17a87a8131887dd14",
-  "notes": "Size & angle dialog now has a 'Lock aspect ratio' option (on by default) so resizing by number keeps proportions. After a cut, the app waits for the machine's buffer to finish, then reports the plot is done and prompts you to press the eject (arrow) button to feed the mat out.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.64.0/Knutcut-v0.64.0-release.apk"
+  "versionCode": 172,
+  "versionName": "0.65.0",
+  "apk": "Knutcut-v0.65.0-release.apk",
+  "sha256": "36c0dca5bdca0434cd903043d9ebeac4e2697df0c2fd40c23eb1fd2dba1f2224",
+  "notes": "New review step before every plot: see the whole mat exactly as it will be plotted, pick which layers to include by tapping a row or the shape itself, switch each layer between cut and draw, then start. What gets plotted is now fixed the moment you press Start.",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.65.0/Knutcut-v0.65.0-release.apk"
 }
