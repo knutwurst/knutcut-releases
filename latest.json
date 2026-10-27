@@ -1,8 +1,8 @@
 {
-  "versionCode": 177,
-  "versionName": "0.66.1",
-  "apk": "Knutcut-v0.66.1-release.apk",
-  "sha256": "98e2f234656094fcafaa59630c056573906e3e0c3c1268c24089a9c17f238e06",
-  "notes": "Fixed the plot sheet sliding out and back in during a plot: it now stays fully open with the live preview and progress bar for the whole plot.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.66.1/Knutcut-v0.66.1-release.apk"
+  "versionCode": 178,
+  "versionName": "0.66.2",
+  "apk": "Knutcut-v0.66.2-release.apk",
+  "sha256": "c045457e06fb24221fd22f09d3df6cc80d24cf8c3195e798bc4a20eae43bb4fb",
+  "notes": "The demo plotter now takes about as long as a real plot (paced by the tool's path at estimated machine speeds), and the live trace moves steadily between data blocks.",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.66.2/Knutcut-v0.66.2-release.apk"
 }
