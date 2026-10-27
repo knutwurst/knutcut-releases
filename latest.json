@@ -1,8 +1,8 @@
 {
-  "versionCode": 176,
-  "versionName": "0.66.0",
-  "apk": "Knutcut-v0.66.0-release.apk",
-  "sha256": "2f80c7d2d117c7a35fd7c1c26795a96d710b9c06f2e8e5d7742c1ce908a92cc3",
-  "notes": "The plot sheet now stays open for the whole plot: the cut paths draw themselves live on the mat preview with a glowing tool position, a large percentage and a thick animated progress bar. At the end the shapes fill up, a check mark pops in and the finish message stays on screen. The sheet can't be swiped away mid-plot; Cancel plot is always at hand.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.66.0/Knutcut-v0.66.0-release.apk"
+  "versionCode": 177,
+  "versionName": "0.66.1",
+  "apk": "Knutcut-v0.66.1-release.apk",
+  "sha256": "98e2f234656094fcafaa59630c056573906e3e0c3c1268c24089a9c17f238e06",
+  "notes": "Fixed the plot sheet sliding out and back in during a plot: it now stays fully open with the live preview and progress bar for the whole plot.",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.66.1/Knutcut-v0.66.1-release.apk"
 }
