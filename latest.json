@@ -1,8 +1,8 @@
 {
-  "versionCode": 179,
-  "versionName": "0.66.3",
-  "apk": "Knutcut-v0.66.3-release.apk",
-  "sha256": "e24c373d00caf4241d690d0a47239b491fdcf35660b4a17f863110b83006e13b",
-  "notes": "Tapping a layer to select it no longer moves it: moving, resizing and rotating only start once the finger actually drags. The merge button in the layer list no longer loses its label on narrow phones.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.66.3/Knutcut-v0.66.3-release.apk"
+  "versionCode": 180,
+  "versionName": "0.66.4",
+  "apk": "Knutcut-v0.66.4-release.apk",
+  "sha256": "2489a5318964d068f018eee75a4fae219a22e366bb8c21bfa3e1311f85eff312",
+  "notes": "The plotter model can no longer change by accident in the connect dialog, and the plot sheet now shows which model will cut. The in-app Bluetooth search finds a plotter that was never paired before.",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.66.4/Knutcut-v0.66.4-release.apk"
 }
