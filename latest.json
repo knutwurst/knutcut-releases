@@ -1,8 +1,8 @@
 {
-  "versionCode": 178,
-  "versionName": "0.66.2",
-  "apk": "Knutcut-v0.66.2-release.apk",
-  "sha256": "c045457e06fb24221fd22f09d3df6cc80d24cf8c3195e798bc4a20eae43bb4fb",
-  "notes": "The demo plotter now takes about as long as a real plot (paced by the tool's path at estimated machine speeds), and the live trace moves steadily between data blocks.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.66.2/Knutcut-v0.66.2-release.apk"
+  "versionCode": 179,
+  "versionName": "0.66.3",
+  "apk": "Knutcut-v0.66.3-release.apk",
+  "sha256": "e24c373d00caf4241d690d0a47239b491fdcf35660b4a17f863110b83006e13b",
+  "notes": "Tapping a layer to select it no longer moves it: moving, resizing and rotating only start once the finger actually drags. The merge button in the layer list no longer loses its label on narrow phones.",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.66.3/Knutcut-v0.66.3-release.apk"
 }
