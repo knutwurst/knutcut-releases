@@ -1,8 +1,8 @@
 {
-  "versionCode": 180,
-  "versionName": "0.66.4",
-  "apk": "Knutcut-v0.66.4-release.apk",
-  "sha256": "2489a5318964d068f018eee75a4fae219a22e366bb8c21bfa3e1311f85eff312",
-  "notes": "The plotter model can no longer change by accident in the connect dialog, and the plot sheet now shows which model will cut. The in-app Bluetooth search finds a plotter that was never paired before.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.66.4/Knutcut-v0.66.4-release.apk"
+  "versionCode": 181,
+  "versionName": "0.66.5",
+  "apk": "Knutcut-v0.66.5-release.apk",
+  "sha256": "2fad9c899d2e14f2fdc6755cff2fe9d952c28bbd5b3a485bb700462333b23369",
+  "notes": "The live trace now follows the commands the plotter has received instead of path length, so it shows the tool on the right shape. The app log records chunk acknowledgement times, timeouts and resends to track down pauses during a plot.",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.66.5/Knutcut-v0.66.5-release.apk"
 }
