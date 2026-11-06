@@ -1,8 +1,8 @@
 {
-  "versionCode": 181,
-  "versionName": "0.66.5",
-  "apk": "Knutcut-v0.66.5-release.apk",
-  "sha256": "2fad9c899d2e14f2fdc6755cff2fe9d952c28bbd5b3a485bb700462333b23369",
-  "notes": "The live trace now follows the commands the plotter has received instead of path length, so it shows the tool on the right shape. The app log records chunk acknowledgement times, timeouts and resends to track down pauses during a plot.",
-  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.66.5/Knutcut-v0.66.5-release.apk"
+  "versionCode": 182,
+  "versionName": "0.66.6",
+  "apk": "Knutcut-v0.66.6-release.apk",
+  "sha256": "5fc4be3a01dfa7a27fac9577209f5eaf1c42eb1d8bad41d28ecf49495d662233",
+  "notes": "Bottom sheets (plot, layers, settings, color, material, library) no longer slide under the navigation bar on Android 12 with the three-button bar.",
+  "apkUrl": "https://github.com/knutwurst/knutcut-releases/releases/download/v0.66.6/Knutcut-v0.66.6-release.apk"
 }
